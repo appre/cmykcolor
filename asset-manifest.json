@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cmykcolor/static/css/main.a402cf9e.css",
+    "main.js": "/cmykcolor/static/js/main.5a256c9d.js",
+    "static/js/787.bc39bd10.chunk.js": "/cmykcolor/static/js/787.bc39bd10.chunk.js",
+    "index.html": "/cmykcolor/index.html",
+    "main.a402cf9e.css.map": "/cmykcolor/static/css/main.a402cf9e.css.map",
+    "main.5a256c9d.js.map": "/cmykcolor/static/js/main.5a256c9d.js.map",
+    "787.bc39bd10.chunk.js.map": "/cmykcolor/static/js/787.bc39bd10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a402cf9e.css",
+    "static/js/main.5a256c9d.js"
+  ]
+}
